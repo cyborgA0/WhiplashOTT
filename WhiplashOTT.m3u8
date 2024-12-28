@@ -282,7 +282,7 @@ https://cdn09jtedge.indihometv.com/atm/hlsv3/rock_entertainment/rock_entertainme
 #EXTINF:-58 tvg-logo="https://i.imgur.com/Sum9qPu.png" group-logo="https://i.imgur.com/7rENkRg.png" group-title="Series/Movies",ROCK ACTION
 https://cdn09jtedge.indihometv.com/atm/hlsv3/ROCK_ACTION/ROCK_ACTION-avc1_2500000=6-mp4a_96000=2.m3u8
 
-#EXTINF:-59 tvg-logo="https://i.imgur.com/K5wLIm0.png" group-logo="https://i.imgur.com/7rENkRg.png" group-title="Series/Movies",WARNER TV
+#EXTINF:-59 tvg-logo="https://i.ibb.co/JRBqHQD/13131827-qe1sisbmxnifd4pd.png" group-logo="https://i.imgur.com/7rENkRg.png" group-title="Series/Movies",WARNER TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6093e12639b24cd651ee6b3c13446d10:f8326f668c7bee309e5302b513e5bdf7
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
@@ -475,7 +475,7 @@ http://38.224.222.34:8000/play/a00q
 #EXTINF:-101 tvg-logo="https://i.imgur.com/xhmWQXs.png" group-logo="https://i.imgur.com/NbRG0IW.jpeg" group-title="Kids/Family",PBS KIDS
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 
-#EXTINF:-102 tvg-logo="https://i.imgur.com/v4ZYiUL.png" group-logo="https://i.imgur.com/NbRG0IW.jpeg" group-title="Kids/Family",MOONBUG
+#EXTINF:-102 tvg-logo="https://i.imgur.com/cfQMx3J.png" group-logo="https://i.imgur.com/NbRG0IW.jpeg" group-title="Kids/Family",MOONBUG
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0bf00921bec94a65a124fba1ef52b1cd:0f1488487cbe05e2badc3db53ae0f29f
 https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_moonbug_kids_sd.mpd
@@ -531,7 +531,7 @@ https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_historyhd.mpd
 #EXTINF:-114 tvg-logo="https://i.imgur.com/bNeT9eV.png" group-logo="https://i.imgur.com/tURRa1o.png" group-title="Documentary/Lifestyle",HISTORY 2
 http://190.102.246.93:9005/play/a00y
 
-#EXTINF:-115 tvg-logo="https://i.imgur.com/DvXfCrO.png" group-logo="https://i.imgur.com/tURRa1o.png" group-title="Documentary/Lifestyle",FOOD NETWORK
+#EXTINF:-115 tvg-logo="https://i.imgur.com/dBjSEyl.png" group-logo="https://i.imgur.com/tURRa1o.png" group-title="Documentary/Lifestyle",FOOD NETWORK
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -620,7 +620,7 @@ http://143.44.136.113:6910/001/2/ch00000090990000001342/manifest.mpd?virtualDoma
 #EXTINF:-131 tvg-logo="https://i.imgur.com/5Qbiv1q.png" group-logo="https://i.imgur.com/tURRa1o.png" group-title="Documentary/Lifestyle",TRAVELXP
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 
-#EXTINF:-132 tvg-logo="https://i.imgur.com/UYpxXca.png" group-logo="https://i.imgur.com/IYE1KHX.jpeg" group-title="News",CNN
+#EXTINF:-132 tvg-logo="https://i.imgur.com/IJm0dZa.png" group-logo="https://i.imgur.com/IYE1KHX.jpeg" group-title="News",CNN
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6910/001/2/ch00000090990000001073/manifest.mpd?virtualDomain=001.live_hls.zte.com
