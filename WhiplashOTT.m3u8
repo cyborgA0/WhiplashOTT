@@ -238,10 +238,10 @@ http://143.44.136.111:6910/001/2/ch00000090990000001091/manifest.mpd?virtualDoma
 https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/viva_sd.mpd
 
 #EXTINF:-46 tvg-logo="https://i.imgur.com/SMukHlr.png" group-logo="https://i.imgur.com/7rENkRg.png" group-title="Series/Movies",&𝐅𝐋𝐈𝐗
-https://starshare.live:443/live/7382837374/5003958588/98841.m3u8
+http://watchindia.net:8880/live/63332/77616/2088.ts
 
 #EXTINF:-47 tvg-logo="https://i.imgur.com/QG3BDG1.png" group-logo="https://i.imgur.com/7rENkRg.png" group-title="Series/Movies",&𝐏𝐑𝐈𝐕𝐄
-http://sansat.cc:88/live/g25/ZNaMXGCdLDVne0g/93644.ts
+http://watchindia.net:8880/live/63332/77616/2103.ts
 
 #EXTINF:-48 tvg-logo="https://i.imgur.com/5nphPif.png" group-logo="https://i.imgur.com/7rENkRg.png" group-title="Series/Movies",𝐀𝐒𝐓𝐑𝐎 𝐒𝐇𝐎𝐖𝐂𝐀𝐒𝐄
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -342,22 +342,22 @@ https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/kix_hd1.mpd
 https://starshare.live:443/live/7382837374/5003958588/98847.m3u8
 
 #EXTINF:-69 tvg-logo="https://i.imgur.com/8RavK5V.png" group-logo="https://i.imgur.com/7rENkRg.png" group-title="Series/Movies",𝐌𝐍𝐗
-https://starshare.live:443/live/7382837374/5003958588/23428.m3u8
+https://starshare.live:443/live/7382837374/5003958588/2102.m3u8
 
 #EXTINF:-70 tvg-logo="https://i.imgur.com/sPT2SxI.png" group-logo="https://i.imgur.com/7rENkRg.png" group-title="Series/Movies",𝐌𝐎𝐕𝐈𝐄𝐒 𝐍𝐎𝐖
-https://starshare.live:443/live/7382837374/5003958588/152387.m3u8
+http://watchindia.net:8880/live/63332/77616/2103.ts
 
-#EXTINF:-71 tvg-logo="https://i.imgur.com/tb65CMh.png" group-logo="https://i.imgur.com/9C0pL2G.png" group-title="Series/Movies",𝐌𝐓𝐕
-http://87.254.1.41:9981/stream/channelid/536962397?profile=pass
-
-#EXTINF:-72 tvg-logo="https://i.imgur.com/fxwLZXp.png" group-logo="https://i.imgur.com/7rENkRg.png" group-title="Series/Movies",𝐏𝐀𝐑𝐀𝐌𝐎𝐔𝐍𝐓 𝐍𝐄𝐓𝐖𝐎𝐑𝐊
+#EXTINF:-71 tvg-logo="https://i.imgur.com/fxwLZXp.png" group-logo="https://i.imgur.com/7rENkRg.png" group-title="Series/Movies",𝐏𝐀𝐑𝐀𝐌𝐎𝐔𝐍𝐓 𝐍𝐄𝐓𝐖𝐎𝐑𝐊
 http://190.102.246.93:9005/play/a01d
 
-#EXTINF:-73 tvg-logo="https://i.imgur.com/Sum9qPu.png" group-logo="https://i.imgur.com/7rENkRg.png" group-title="Series/Movies",𝐑𝐎𝐂𝐊 𝐀𝐂𝐓𝐈𝐎𝐍
+#EXTINF:-72 tvg-logo="https://i.imgur.com/Sum9qPu.png" group-logo="https://i.imgur.com/7rENkRg.png" group-title="Series/Movies",𝐑𝐎𝐂𝐊 𝐀𝐂𝐓𝐈𝐎𝐍
 https://cdn09jtedge.indihometv.com/atm/hlsv3/ROCK_ACTION/ROCK_ACTION-avc1_2500000=6-mp4a_96000=2.m3u8
 
-#EXTINF:-74 tvg-logo="https://i.imgur.com/FaQPbmc.png" group-logo="https://i.imgur.com/7rENkRg.png" group-title="Series/Movies",𝐑𝐎𝐂𝐊 𝐄𝐍𝐓𝐄𝐑𝐓𝐀𝐈𝐍𝐌𝐄𝐍𝐓
+#EXTINF:-73 tvg-logo="https://i.imgur.com/FaQPbmc.png" group-logo="https://i.imgur.com/7rENkRg.png" group-title="Series/Movies",𝐑𝐎𝐂𝐊 𝐄𝐍𝐓𝐄𝐑𝐓𝐀𝐈𝐍𝐌𝐄𝐍𝐓
 https://cdn09jtedge.indihometv.com/atm/hlsv3/rock_entertainment/rock_entertainment-avc1_2500000=6-mp4a_96000=2.m3u8
+
+#EXTINF:-74 tvg-logo="https://i.imgur.com/fvpV5fH.png" group-logo="https://i.imgur.com/7rENkRg.png" group-title="Series/Movies",𝐒𝐎𝐍𝐘 𝐏𝐈𝐗
+http://watchindia.net:8880/live/63332/77616/2101.ts
 
 #EXTINF:-75 tvg-logo="https://i.imgur.com/hgCWY6V.png" group-logo="https://i.imgur.com/7rENkRg.png" group-title="Series/Movies",𝐒𝐏𝐀𝐂𝐄
 http://200.60.124.19:29000/play/a028/index.m3u8
