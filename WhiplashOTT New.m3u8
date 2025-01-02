@@ -252,163 +252,163 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5054/default_ott.mpd
 #EXTINF:-49 tvg-logo="https://i.imgur.com/tDbuoAU.png" group-logo="https://i.imgur.com/7rENkRg.png" group-title="Series/Movies",𝐀𝐗𝐍
 https://cdn09jtedge.indihometv.com/atm/hlsv3/axn/axn-avc1_2500000=6-mp4a_96000=2.m3u8
 
-#EXTINF:-50 tvg-logo="https://i.imgur.com/IPKiteM.png" group-logo="https://i.imgur.com/7rENkRg.png" group-title="Series/Movies",𝐂𝐈𝐍𝐄𝐌𝐀𝐂𝐇𝐈
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=eeea0c2986e91a13eacd590ad1ebfe43:0acc16bd84921489f67bad19e4099cae
-http://202.147.193.244/live/eds/Cinemachi-HD/sa_dash_vmx/Cinemachi-HD.mpd
-
-#EXTINF:-51 tvg-logo="https://i.imgur.com/uGEC5a6.png" group-logo="https://i.imgur.com/7rENkRg.png" group-title="Series/Movies",𝐂𝐈𝐍𝐄𝐌𝐀𝐂𝐇𝐈 𝐀𝐂𝐓𝐈𝐎𝐍
+#EXTINF:-50 tvg-logo="https://i.imgur.com/EYrAZFG.png" group-logo="https://i.imgur.com/7rENkRg.png" group-title="Series/Movies",𝐂𝐈𝐍𝐄𝐄𝐃𝐆𝐄
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=fba45325e2cd8355972ede4981f43b2a:d88a4bdd67f89cd21eb074c81de1b994
 http://202.147.193.244/live/eds/Cinemachi-Action/sa_dash_vmx/Cinemachi-Action.mpd
 
-#EXTINF:-52 tvg-logo="https://i.imgur.com/CHcq2jF.png" group-logo="https://i.imgur.com/7rENkRg.png" group-title="Series/Movies",𝐂𝐈𝐍𝐄𝐌𝐀𝐂𝐇𝐈 𝐌𝐀𝐗
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6c256f70830647e4bdf654d86e710ed5:fe41e9bcbae52f9d233407f7488bca5f
-http://202.147.193.244/live/eds/Cinemachi-Max-HD/sa_dash_vmx/Cinemachi-Max-HD.mpd
-
-#EXTINF:-53 tvg-logo="https://i.imgur.com/NzeRKmi.png" group-logo="https://i.imgur.com/7rENkRg.png" group-title="Series/Movies",𝐂𝐈𝐍𝐄𝐌𝐀𝐂𝐇𝐈 𝐗𝐓𝐑𝐀
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=b64eee6360b118d0d90329cc2c9e4c60:4e97aa6422b26ffb372647dbd0a7683c
-http://202.147.193.244/live/eds/Cinemachi-Xtra-HD/sa_dash_vmx/Cinemachi-Xtra-HD.mpd
-
-#EXTINF:-54 tvg-logo="https://i.imgur.com/GoC9AZ2.png" group-logo="https://i.imgur.com/7rENkRg.png" group-title="Series/Movies",𝐂𝐈𝐍𝐄𝐌𝐀𝐖𝐎𝐑𝐋𝐃
+#EXTINF:-51 tvg-logo="https://i.imgur.com/GoC9AZ2.png" group-logo="https://i.imgur.com/7rENkRg.png" group-title="Series/Movies",𝐂𝐈𝐍𝐄𝐌𝐀𝐖𝐎𝐑𝐋𝐃
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.113:6910/001/2/ch00000090990000001158/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-55 tvg-logo="https://i.imgur.com/FPQpnLt.png" group-logo="https://i.imgur.com/7rENkRg.png" group-title="Series/Movies",𝐂𝐈𝐍𝐄𝐌𝐀𝐗
+#EXTINF:-52 tvg-logo="https://i.imgur.com/FPQpnLt.png" group-logo="https://i.imgur.com/7rENkRg.png" group-title="Series/Movies",𝐂𝐈𝐍𝐄𝐌𝐀𝐗
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6910/001/2/ch00000090990000001108/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-56 tvg-logo="https://i.imgur.com/B9m9J1Y.png" group-logo="https://i.imgur.com/7rENkRg.png" group-title="Series/Movies",𝐂𝐈𝐍𝐄𝐌𝐀𝐗 𝟐
+#EXTINF:-53 tvg-logo="https://i.imgur.com/B9m9J1Y.png" group-logo="https://i.imgur.com/7rENkRg.png" group-title="Series/Movies",𝐂𝐈𝐍𝐄𝐌𝐀𝐗 𝟐
 http://185.236.229.62:9981/play/a07r
 
-#EXTINF:-57 tvg-logo="https://i.imgur.com/5Qloxv0.png" group-logo="https://i.imgur.com/7rENkRg.png" group-title="Series/Movies",𝐂𝐎𝐌𝐄𝐃𝐘 𝐂𝐄𝐍𝐓𝐑𝐀𝐋
+#EXTINF:-54 tvg-logo="https://i.imgur.com/5Qloxv0.png" group-logo="https://i.imgur.com/7rENkRg.png" group-title="Series/Movies",𝐂𝐎𝐌𝐄𝐃𝐘 𝐂𝐄𝐍𝐓𝐑𝐀𝐋
 http://38.191.90.2:8000/play/a04l
 
-#EXTINF:-58 tvg-logo="https://i.imgur.com/wYvzBsY.png" group-logo="https://i.imgur.com/7rENkRg.png" group-title="Series/Movies",𝐃𝐈𝐕𝐀
+#EXTINF:-55 tvg-logo="https://i.imgur.com/wYvzBsY.png" group-logo="https://i.imgur.com/7rENkRg.png" group-title="Series/Movies",𝐃𝐈𝐕𝐀
 https://starshare.live:443/live/7382837374/5003958588/210413.ts
 
-#EXTINF:-59 tvg-logo="https://i.imgur.com/ta5T9zo.png" group-logo="https://i.imgur.com/7rENkRg.png" group-title="Series/Movies",𝐅𝐗
+#EXTINF:-56 tvg-logo="https://i.imgur.com/ta5T9zo.png" group-logo="https://i.imgur.com/7rENkRg.png" group-title="Series/Movies",𝐅𝐗
 http://38.224.222.34:8000/play/a00i
 
-#EXTINF:-60 tvg-logo="https://i.imgur.com/pa2SF5Z.png" group-logo="https://i.imgur.com/7rENkRg.png" group-title="Series/Movies",𝐇𝐁𝐎
+#EXTINF:-57 tvg-logo="https://i.imgur.com/pa2SF5Z.png" group-logo="https://i.imgur.com/7rENkRg.png" group-title="Series/Movies",𝐇𝐁𝐎
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6910/001/2/ch00000090990000001065/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-61 tvg-logo="https://i.imgur.com/Zy3pvJV.png" group-logo="https://i.imgur.com/7rENkRg.png" group-title="Series/Movies",𝐇𝐁𝐎 𝐅𝐀𝐌𝐈𝐋𝐘
+#EXTINF:-58 tvg-logo="https://i.imgur.com/Zy3pvJV.png" group-logo="https://i.imgur.com/7rENkRg.png" group-title="Series/Movies",𝐇𝐁𝐎 𝐅𝐀𝐌𝐈𝐋𝐘
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=872910c843294319800d85f9a0940607:f79fd895b79c590708cf5e8b5c6263be
 https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_hbofam.mpd
 
-#EXTINF:-62 tvg-logo="https://i.imgur.com/pZn9JHj.png" group-logo="https://i.imgur.com/7rENkRg.png" group-title="Series/Movies",𝐇𝐁𝐎 𝐇𝐈𝐓𝐒
+#EXTINF:-59 tvg-logo="https://i.imgur.com/pZn9JHj.png" group-logo="https://i.imgur.com/7rENkRg.png" group-title="Series/Movies",𝐇𝐁𝐎 𝐇𝐈𝐓𝐒
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b04ae8017b5b4601a5a0c9060f6d5b7d:a8795f3bdb8a4778b7e888ee484cc7a1
 https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/cg_hbohits.mpd
 
-#EXTINF:-63 tvg-logo="https://i.imgur.com/3BOoqQn.png" group-logo="https://i.imgur.com/7rENkRg.png" group-title="Series/Movies",𝐇𝐁𝐎 𝐒𝐈𝐆𝐍𝐀𝐓𝐔𝐑𝐄
+#EXTINF:-60 tvg-logo="https://i.imgur.com/3BOoqQn.png" group-logo="https://i.imgur.com/7rENkRg.png" group-title="Series/Movies",𝐇𝐁𝐎 𝐒𝐈𝐆𝐍𝐀𝐓𝐔𝐑𝐄
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a06ca6c275744151895762e0346380f5:559da1b63eec77b5a942018f14d3f56f
 https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_hbosign.mpd
 
-#EXTINF:-64 tvg-logo="https://i.imgur.com/YeqyD9W.png" group-logo="https://i.imgur.com/7rENkRg.png" group-title="Series/Movies",𝐇𝐈𝐓𝐒
+#EXTINF:-61 tvg-logo="https://i.imgur.com/YeqyD9W.png" group-logo="https://i.imgur.com/7rENkRg.png" group-title="Series/Movies",𝐇𝐈𝐓𝐒
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=dac605bc197e442c93f4f08595a95100:975e27ffc1b7949721ee3ccb4b7fd3e5
 https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/hits_hd1.mpd
 
-#EXTINF:-65 tvg-logo="https://i.imgur.com/1rG3el2.png" group-logo="https://i.imgur.com/7rENkRg.png" group-title="Series/Movies",𝐇𝐈𝐓𝐒 𝐌𝐎𝐕𝐈𝐄𝐒
+#EXTINF:-62 tvg-logo="https://i.imgur.com/1rG3el2.png" group-logo="https://i.imgur.com/7rENkRg.png" group-title="Series/Movies",𝐇𝐈𝐓𝐒 𝐌𝐎𝐕𝐈𝐄𝐒
 https://cdn09jtedge.indihometv.com/joss/133/hitsmovie/index.m3u8
 
-#EXTINF:-66 tvg-logo="https://i.imgur.com/b3T6Md7.png" group-logo="https://i.imgur.com/7rENkRg.png" group-title="Series/Movies",𝐇𝐈𝐓𝐒 𝐍𝐎𝐖
+#EXTINF:-63 tvg-logo="https://i.imgur.com/b3T6Md7.png" group-logo="https://i.imgur.com/7rENkRg.png" group-title="Series/Movies",𝐇𝐈𝐓𝐒 𝐍𝐎𝐖
 https://cdn09jtedge.indihometv.com/joss/134/hitsnow/index.m3u8
 
-#EXTINF:-67 tvg-logo="https://i.imgur.com/XDQMCio.png" group-logo="https://i.imgur.com/7rENkRg.png" group-title="Series/Movies",𝐊𝐈𝐗
+#EXTINF:-64 tvg-logo="https://i.imgur.com/XDQMCio.png" group-logo="https://i.imgur.com/7rENkRg.png" group-title="Series/Movies",𝐊𝐈𝐗
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a8d5712967cd495ca80fdc425bc61d6b:f248c29525ed4c40cc39baeee9634735
 https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/kix_hd1.mpd
 
-#EXTINF:-68 tvg-logo="https://i.imgur.com/E1q4Kia.png" group-logo="https://i.imgur.com/7rENkRg.png" group-title="Series/Movies",𝐌𝐍+
+#EXTINF:-65 tvg-logo="https://i.imgur.com/E1q4Kia.png" group-logo="https://i.imgur.com/7rENkRg.png" group-title="Series/Movies",𝐌𝐍+
 https://starshare.live:443/live/7382837374/5003958588/98847.m3u8
 
-#EXTINF:-69 tvg-logo="https://i.imgur.com/8RavK5V.png" group-logo="https://i.imgur.com/7rENkRg.png" group-title="Series/Movies",𝐌𝐍𝐗
+#EXTINF:-66 tvg-logo="https://i.imgur.com/8RavK5V.png" group-logo="https://i.imgur.com/7rENkRg.png" group-title="Series/Movies",𝐌𝐍𝐗
 https://starshare.live:443/live/7382837374/5003958588/2102.m3u8
 
-#EXTINF:-70 tvg-logo="https://i.imgur.com/sPT2SxI.png" group-logo="https://i.imgur.com/7rENkRg.png" group-title="Series/Movies",𝐌𝐎𝐕𝐈𝐄𝐒 𝐍𝐎𝐖
+#EXTINF:-67 tvg-logo="https://i.imgur.com/sPT2SxI.png" group-logo="https://i.imgur.com/7rENkRg.png" group-title="Series/Movies",𝐌𝐎𝐕𝐈𝐄𝐒 𝐍𝐎𝐖
 http://watchindia.net:8880/live/63332/77616/2102.ts
 
-#EXTINF:-71 tvg-logo="https://i.imgur.com/fxwLZXp.png" group-logo="https://i.imgur.com/7rENkRg.png" group-title="Series/Movies",𝐏𝐀𝐑𝐀𝐌𝐎𝐔𝐍𝐓 𝐍𝐄𝐓𝐖𝐎𝐑𝐊
+#EXTINF:-68 tvg-logo="https://i.imgur.com/o1xX0O6.png" group-logo="https://i.imgur.com/7rENkRg.png" group-title="Series/Movies",𝐎𝐑𝐈𝐆𝐈𝐍𝐀𝐋𝐒
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=eeea0c2986e91a13eacd590ad1ebfe43:0acc16bd84921489f67bad19e4099cae
+http://202.147.193.244/live/eds/Cinemachi-HD/sa_dash_vmx/Cinemachi-HD.mpd
+
+#EXTINF:-69 tvg-logo="https://i.imgur.com/fxwLZXp.png" group-logo="https://i.imgur.com/7rENkRg.png" group-title="Series/Movies",𝐏𝐀𝐑𝐀𝐌𝐎𝐔𝐍𝐓 𝐍𝐄𝐓𝐖𝐎𝐑𝐊
 http://190.102.246.93:9005/play/a01d
 
-#EXTINF:-72 tvg-logo="https://i.imgur.com/Sum9qPu.png" group-logo="https://i.imgur.com/7rENkRg.png" group-title="Series/Movies",𝐑𝐎𝐂𝐊 𝐀𝐂𝐓𝐈𝐎𝐍
+#EXTINF:-70 tvg-logo="https://i.imgur.com/Sum9qPu.png" group-logo="https://i.imgur.com/7rENkRg.png" group-title="Series/Movies",𝐑𝐎𝐂𝐊 𝐀𝐂𝐓𝐈𝐎𝐍
 https://cdn09jtedge.indihometv.com/atm/hlsv3/ROCK_ACTION/ROCK_ACTION-avc1_2500000=6-mp4a_96000=2.m3u8
 
-#EXTINF:-73 tvg-logo="https://i.imgur.com/FaQPbmc.png" group-logo="https://i.imgur.com/7rENkRg.png" group-title="Series/Movies",𝐑𝐎𝐂𝐊 𝐄𝐍𝐓𝐄𝐑𝐓𝐀𝐈𝐍𝐌𝐄𝐍𝐓
+#EXTINF:-71 tvg-logo="https://i.imgur.com/FaQPbmc.png" group-logo="https://i.imgur.com/7rENkRg.png" group-title="Series/Movies",𝐑𝐎𝐂𝐊 𝐄𝐍𝐓𝐄𝐑𝐓𝐀𝐈𝐍𝐌𝐄𝐍𝐓
 https://cdn09jtedge.indihometv.com/atm/hlsv3/rock_entertainment/rock_entertainment-avc1_2500000=6-mp4a_96000=2.m3u8
 
-#EXTINF:-74 tvg-logo="https://i.imgur.com/fvpV5fH.png" group-logo="https://i.imgur.com/7rENkRg.png" group-title="Series/Movies",𝐒𝐎𝐍𝐘 𝐏𝐈𝐗
+#EXTINF:-72 tvg-logo="https://i.imgur.com/fvpV5fH.png" group-logo="https://i.imgur.com/7rENkRg.png" group-title="Series/Movies",𝐒𝐎𝐍𝐘 𝐏𝐈𝐗
 http://watchindia.net:8880/live/63332/77616/2101.ts
 
-#EXTINF:-75 tvg-logo="https://i.imgur.com/hgCWY6V.png" group-logo="https://i.imgur.com/7rENkRg.png" group-title="Series/Movies",𝐒𝐏𝐀𝐂𝐄
+#EXTINF:-73 tvg-logo="https://i.imgur.com/hgCWY6V.png" group-logo="https://i.imgur.com/7rENkRg.png" group-title="Series/Movies",𝐒𝐏𝐀𝐂𝐄
 http://200.60.124.19:29000/play/a028/index.m3u8
 
-#EXTINF:-76 tvg-logo="https://i.imgur.com/WZsIkUf.png" group-logo="https://i.imgur.com/7rENkRg.png" group-title="Series/Movies",𝐒𝐓𝐀𝐑 𝐂𝐇𝐀𝐍𝐍𝐄𝐋
+#EXTINF:-74 tvg-logo="https://i.imgur.com/WZsIkUf.png" group-logo="https://i.imgur.com/7rENkRg.png" group-title="Series/Movies",𝐒𝐓𝐀𝐑 𝐂𝐇𝐀𝐍𝐍𝐄𝐋
 http://201.182.248.254:8888/play/a072/index.m3u8
 
-#EXTINF:-77 tvg-logo="https://i.imgur.com/adgHTs7.png" group-logo="https://i.imgur.com/7rENkRg.png" group-title="Series/Movies",𝐒𝐓𝐀𝐑 𝐌𝐎𝐕𝐈𝐄𝐒
+#EXTINF:-75 tvg-logo="https://i.imgur.com/adgHTs7.png" group-logo="https://i.imgur.com/7rENkRg.png" group-title="Series/Movies",𝐒𝐓𝐀𝐑 𝐌𝐎𝐕𝐈𝐄𝐒
 https://starshare.live:443/live/7382837374/5003958588/98842.m3u8
 
-#EXTINF:-78 tvg-logo="https://i.imgur.com/CBRz0BK.png" group-logo="https://i.imgur.com/7rENkRg.png" group-title="Series/Movies",𝐒𝐓𝐀𝐑 𝐌𝐎𝐕𝐈𝐄𝐒 𝐒𝐄𝐋𝐄𝐂𝐓
+#EXTINF:-76 tvg-logo="https://i.imgur.com/CBRz0BK.png" group-logo="https://i.imgur.com/7rENkRg.png" group-title="Series/Movies",𝐒𝐓𝐀𝐑 𝐌𝐎𝐕𝐈𝐄𝐒 𝐒𝐄𝐋𝐄𝐂𝐓
 https://starshare.live:443/live/7382837374/5003958588/98843.m3u8
 
-#EXTINF:-79 tvg-logo="https://i.imgur.com/Qx7X56p.png" group-logo="https://i.imgur.com/7rENkRg.png" group-title="Series/Movies",𝐒𝐓𝐔𝐃𝐈𝐎 𝐔𝐍𝐈𝐕𝐄𝐑𝐒𝐀𝐋
+#EXTINF:-77 tvg-logo="https://i.imgur.com/Qx7X56p.png" group-logo="https://i.imgur.com/7rENkRg.png" group-title="Series/Movies",𝐒𝐓𝐔𝐃𝐈𝐎 𝐔𝐍𝐈𝐕𝐄𝐑𝐒𝐀𝐋
 http://190.102.246.93:9005/play/a01e
 
-#EXTINF:-80 tvg-logo="https://i.imgur.com/xX4CERA.png" group-logo="https://i.imgur.com/7rENkRg.png" group-title="Series/Movies",𝐒𝐘𝐅𝐘
+#EXTINF:-78 tvg-logo="https://i.imgur.com/e1MiZv1.png" group-logo="https://i.imgur.com/7rENkRg.png" group-title="Series/Movies",𝐒𝐔𝐏𝐄𝐑𝐑𝐈𝐗
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6c256f70830647e4bdf654d86e710ed5:fe41e9bcbae52f9d233407f7488bca5f
+http://202.147.193.244/live/eds/Cinemachi-Max-HD/sa_dash_vmx/Cinemachi-Max-HD.mpd
+
+#EXTINF:-79 tvg-logo="https://i.imgur.com/xX4CERA.png" group-logo="https://i.imgur.com/7rENkRg.png" group-title="Series/Movies",𝐒𝐘𝐅𝐘
 http://sansat.cc:88/live/g25/ZNaMXGCdLDVne0g/95350.ts
 
-#EXTINF:-81 tvg-logo="https://i.imgur.com/h5c8tio.png" group-logo="https://i.imgur.com/7rENkRg.png" group-title="Series/Movies",𝐓𝐀𝐏 𝐀𝐂𝐓𝐈𝐎𝐍 𝐅𝐋𝐈𝐗
+#EXTINF:-80 tvg-logo="https://i.imgur.com/h5c8tio.png" group-logo="https://i.imgur.com/7rENkRg.png" group-title="Series/Movies",𝐓𝐀𝐏 𝐀𝐂𝐓𝐈𝐎𝐍 𝐅𝐋𝐈𝐗
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=bee1066160c0424696d9bf99ca0645e3:f5b72bf3b89b9848de5616f37de040b7
 https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_tapactionflix_hd1.mpd
 
-#EXTINF:-82 tvg-logo="https://i.imgur.com/e7xA7qK.png" group-logo="https://i.imgur.com/7rENkRg.png" group-title="Series/Movies",𝐓𝐀𝐏 𝐄𝐃𝐆𝐄
+#EXTINF:-81 tvg-logo="https://i.imgur.com/e7xA7qK.png" group-logo="https://i.imgur.com/7rENkRg.png" group-title="Series/Movies",𝐓𝐀𝐏 𝐄𝐃𝐆𝐄
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
 http://143.44.136.110:6910/001/2/ch00000090990000001150/manifest.mpd?virtualDomain=001.live_hls.zte.com
 
-#EXTINF:-83 tvg-logo="https://i.imgur.com/3RVA5mV.png" group-logo="https://i.imgur.com/7rENkRg.png" group-title="Series/Movies",𝐓𝐀𝐏 𝐌𝐎𝐕𝐈𝐄𝐒
+#EXTINF:-82 tvg-logo="https://i.imgur.com/3RVA5mV.png" group-logo="https://i.imgur.com/7rENkRg.png" group-title="Series/Movies",𝐓𝐀𝐏 𝐌𝐎𝐕𝐈𝐄𝐒
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=71cbdf02b595468bb77398222e1ade09:c3f2aa420b8908ab8761571c01899460
 https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_tapmovies_hd1.mpd
 
-#EXTINF:-84 tvg-logo="https://i.imgur.com/J6Olkop.png" group-logo="https://i.imgur.com/7rENkRg.png" group-title="Series/Movies",𝐓𝐀𝐏 𝐓𝐕
+#EXTINF:-83 tvg-logo="https://i.imgur.com/J6Olkop.png" group-logo="https://i.imgur.com/7rENkRg.png" group-title="Series/Movies",𝐓𝐀𝐏 𝐓𝐕
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f6804251e90b4966889b7df94fdc621e:55c3c014f2bd12d6bd62349658f24566
 https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_taptv_sd.mpd
 
-#EXTINF:-85 tvg-logo="https://i.imgur.com/mNmRiMA.png" group-logo="https://i.imgur.com/7rENkRg.png" group-title="Series/Movies",𝐓𝐇𝐑𝐈𝐋𝐋
+#EXTINF:-84 tvg-logo="https://i.imgur.com/mNmRiMA.png" group-logo="https://i.imgur.com/7rENkRg.png" group-title="Series/Movies",𝐓𝐇𝐑𝐈𝐋𝐋
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=928114ffb2394d14b5585258f70ed183:a82edc340bc73447bac16cdfed0a4c62
 https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_thrill_sd.mpd
+
+#EXTINF:-85 tvg-logo="https://i.imgur.com/EDdFhno.png" group-logo="https://i.imgur.com/7rENkRg.png" group-title="Series/Movies",𝐔𝐍𝐈𝐐𝐔𝐄𝐒
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=b64eee6360b118d0d90329cc2c9e4c60:4e97aa6422b26ffb372647dbd0a7683c
+http://202.147.193.244/live/eds/Cinemachi-Xtra-HD/sa_dash_vmx/Cinemachi-Xtra-HD.mpd
 
 #EXTINF:-86 tvg-logo="https://i.imgur.com/UhRluq1.png" group-logo="https://i.imgur.com/7rENkRg.png" group-title="Series/Movies",𝐔𝐍𝐈𝐕𝐄𝐑𝐒𝐀𝐋 𝐓𝐕
 http://45.181.122.201:8081/play/a06w
